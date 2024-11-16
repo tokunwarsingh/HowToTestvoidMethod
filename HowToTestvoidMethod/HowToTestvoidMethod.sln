@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToTestvoidMethod", "HowToTestvoidMethod.csproj", "{BB8DC20A-C83B-4C41-BCEE-2B124F558AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Tests", "..\API.Tests\API.Tests.csproj", "{BF2767EB-3002-427A-86B5-0F0042EDF068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8DC20A-C83B-4C41-BCEE-2B124F558AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8DC20A-C83B-4C41-BCEE-2B124F558AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8DC20A-C83B-4C41-BCEE-2B124F558AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8DC20A-C83B-4C41-BCEE-2B124F558AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2767EB-3002-427A-86B5-0F0042EDF068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2767EB-3002-427A-86B5-0F0042EDF068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2767EB-3002-427A-86B5-0F0042EDF068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2767EB-3002-427A-86B5-0F0042EDF068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A350E5B-2D80-497D-B09A-71FE98F26EDB}
+	EndGlobalSection
+EndGlobal
